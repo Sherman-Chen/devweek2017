@@ -6,4 +6,4 @@ Check it out, including the API server, out at [raging octopus](https://github.c
 
 We placed 2nd overall for the Flock Challenge and won $2000 and swag :) 
 
-[flock challenge](http://accelerate.im/challenges/109)
+[flock challenge 2017 overall winners](http://www.developerweek.com/developerweek-hackathon-winners/)
